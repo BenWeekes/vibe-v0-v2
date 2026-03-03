@@ -34,7 +34,9 @@ When prompted for environment variables, provide:
   <img src="docs/v0-project-menu.png" width="360" alt="v0 project dropdown menu showing Settings option" />
   <img src="docs/v0-env-vars.png" width="480" alt="v0 Settings Environment Variables panel" />
 
-- After adding environment variables, click **Restart Sandbox** (bottom of the Environment Variables panel) for them to take effect
+- After adding environment variables, click the refresh icon in the preview toolbar and select **Restart Sandbox** for them to take effect
+
+  <img src="docs/v0-restart-sandbox.png" width="300" alt="v0 preview toolbar showing Restart Sandbox option" />
 - v0 may regenerate `styles/globals.css` — that's fine, the real theme is in `app/globals.css`
 - The SVG logo at `public/agora.svg` must be copied as-is
 
